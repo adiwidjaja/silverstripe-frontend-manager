@@ -8,5 +8,8 @@
             "email": "adiwidjaja@gmail.com"
         }
     ],
+    "expose": [
+        "client/dist"
+    ],
     "require": {}
 }
